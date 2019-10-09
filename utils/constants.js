@@ -1,0 +1,13 @@
+const COLORS = {
+    PRIMARY_BG:'#244671',
+    SECONDARY_BG:'#F0F0F0',
+    PRIMARY_TEXT:'#244671',
+    SECONDARY_TEXT:'#E9E9EA',
+    TIPS_BG:'#9CC8CC',
+    CARD_BG:'#212121'
+};
+
+
+export  {
+    COLORS
+}
